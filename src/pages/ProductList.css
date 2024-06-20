@@ -1,0 +1,28 @@
+.single-main{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.single-left{
+width: 40%;
+align-items: center;
+justify-content: center;
+margin: 20px;
+}
+
+.single-left img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.single-right{
+width: 80%;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin-right: 10px;
+
+}
